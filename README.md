@@ -37,7 +37,6 @@ My team earned **Best Visuals** recognition from the Association of Information 
 ## Contact Information
 
 * LinkedIn: [linkedin.com/in/jean-cho-acc](https://www.linkedin.com/in/jean-cho-acc)
-* GitHub: [github.com/jan-039](https://github.com/jan-039)
 
 
 
