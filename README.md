@@ -25,7 +25,7 @@ Analyzed health and education disparities across Los Angeles County communities 
 Analyzed wage and salary trends across industries over time.
 My team earned **Best Visuals** recognition from the Association of Information Systems Datathon.
 
-## Extracurriculars, Hobbies & Interests
+## Extracurriculars & Interests
 
 * Break Through Tech AI Fellow
 * Former President of the Foodie Club
