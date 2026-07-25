@@ -14,16 +14,11 @@ I'm also a fellow in **Break Through Tech's AI Program**, an 18-month program fo
 
 **Interests:** Data Analytics · Business Analytics · Financial Analysis · Data Visualization
 
-## Key Projects
+## Key Project
 
-### [TruBridge Externship Project](https://github.com/jan-039/trubridge-externship-project)
+### [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis)
 
-Analyzed health and education disparities across Los Angeles County communities using Python.
-
-### AIS Datathon Project
-
-Analyzed wage and salary trends across industries over time.
-My team earned **Best Visuals** recognition from the Association of Information Systems Datathon.
+Machine learning analysis of 1994 U.S. Census data to predict whether an individual earns more than $50,000 annually. The project includes exploratory data analysis, data preprocessing, logistic regression, a neural network, model evaluation, and a discussion of ethical considerations.
 
 ## Extracurriculars & Interests
 
