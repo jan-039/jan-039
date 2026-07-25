@@ -12,7 +12,7 @@ I'm also a fellow in **Break Through Tech's AI Program**, an 18-month program fo
 
 `Python` `SQL` `Excel` `Power BI`
 
-**Interests:** Data Analytics · Business Analytics · Financial Analysis · Data Visualization · Business Intelligence
+**Interests:** Data Analytics · Business Analytics · Financial Analysis · Data Visualization
 
 ## Key Projects
 
@@ -29,10 +29,7 @@ My team earned **Best Visuals** recognition from the Association of Information 
 
 * Break Through Tech AI Fellow
 * Former President of the Foodie Club
-* Association of Information Systems Datathon participant
 * Student Researcher for the AI Club at CSULB
-* Interested in data visualization, data analytics, and business intelligence
-* Enjoy connecting with others who are interested in using data to support business initiatives
 
 ## Contact Information
 
