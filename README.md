@@ -1,4 +1,4 @@
-# Hi, I'm Jean 👋
+# Hi, I'm Jean
 
 ## About Me
 
