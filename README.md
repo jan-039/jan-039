@@ -1,20 +1,19 @@
 # Jean Cho | Data Analyst
 
-Aspiring Data Analyst with hands-on experience in data analysis and visualization. 
+Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and visualization.
 
-* Business Administration with an emphasis in Management Information Systems at California State University, Long Beach
-* Interests: Data Analysis, Data Visualization, Machine Learning, Financial Analysis
-* Currently Learning: 
-* Reach Me: jeanchoacc@gmail.com
+* Education: Business Administration, Management Information Systems at California State University, Long Beach
+* Interests: Data Analysis, Data Visualization, Financial Analysis, Machine Learning
+* Currently Learning: SQL, Power BI, Excel/Power Query, and Python
+* Email: jeanchoacc@gmail.com
+* LinkedIn: www.linkedin.com/in/jean-cho-acc
 
 ## Technical Skills
 
 * Languages: Python, SQL
-* Frameworks & Tools: 
+* Analytics Tools: Excel, Power Query, Power BI 
 * Databases: DB Browser for SQLite 
-* Other: 
-
-`Python` `SQL` `Excel` `Power BI`
+* Python Libraries: pandas, NumPy, Matplotlib
 
 ## Featured Projects
 
