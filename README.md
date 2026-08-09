@@ -10,7 +10,7 @@ Aspiring Data Analyst with hands-on experience in data analysis and visualizatio
 ## Technical Skills
 
 * Languages: Python, SQL
-* 
+* Frameworks & Tools: 
 * Databases: DB Browser for SQLite 
 * Other: 
 
