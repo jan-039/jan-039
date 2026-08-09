@@ -24,20 +24,6 @@ Aspiring Data Analyst with hands-on experience in data analysis and visualizatio
 | Item A | Item B | Item C |
 | [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis) | Machine learning analysis of 1994 U.S. Census data to predict whether an individual earns more than $50,000 annually | Python |
 
-### [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis)
-
-Machine learning analysis of 1994 U.S. Census data to predict whether an individual earns more than $50,000 annually. The project includes exploratory data analysis, data preprocessing, logistic regression, a neural network, model evaluation, and a discussion of ethical considerations.
-
-## Extracurriculars & Interests
-
-* Break Through Tech AI Fellow
-* Former President of the Foodie Club
-* Student Researcher for the AI Club at CSULB
-
-## Contact Information
-
-* LinkedIn: [linkedin.com/in/jean-cho-acc](https://www.linkedin.com/in/jean-cho-acc)
-
 
 
 <!--
