@@ -1,20 +1,27 @@
 # Jean Cho | Data Analyst
 
-## About Me
+Aspiring Data Analyst with hands-on experience in data analysis and visualization. 
 
-I'm a Business Administration student at California State University, Long Beach concentrating in **Management Information Systems** and pursuing a **Business Analytics certificate**.
+• Business Administration with an emphasis in Management Information Systems at California State University, Long Beach
+• Interests: Data Analysis, Data Visualization, Machine Learning, Financial Analysis
+• Currently Learning: 
+• Reach Me: jeanchoacc@gmail.com
 
-I'm passionate about **data analytics, visualization, and using data to support business decisions**. This summer, I'll be interning in **Financial Planning & Analysis at the Port of Los Angeles**, where I'll apply my analytical skills in a large public infrastructure organization.
+## Technical Skills
 
-I'm also a fellow in **Break Through Tech's AI Program**, an 18-month program focused on Python, data science, and machine learning.
-
-## Tech Stack
+• Languages: Python, SQL
+• 
+• Databases: DB Browser for SQLite 
+• Other: 
 
 `Python` `SQL` `Excel` `Power BI`
 
-**Interests:** Data Analytics · Business Analytics · Financial Analysis · Data Visualization
+## Featured Projects
 
-## Key Project
+| Project | Description | Tech |
+| :--- | :---: | ---: |
+| Left-aligned text | Centered text | Right-aligned text |
+| Item A | Item B | Item C |
 
 ### [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis)
 
