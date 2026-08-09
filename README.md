@@ -1,4 +1,4 @@
-# Hi, I'm Jean
+# Jean Cho | Data Analyst
 
 ## About Me
 
