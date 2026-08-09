@@ -2,17 +2,17 @@
 
 Aspiring Data Analyst with hands-on experience in data analysis and visualization. 
 
-• Business Administration with an emphasis in Management Information Systems at California State University, Long Beach
-• Interests: Data Analysis, Data Visualization, Machine Learning, Financial Analysis
-• Currently Learning: 
-• Reach Me: jeanchoacc@gmail.com
+* Business Administration with an emphasis in Management Information Systems at California State University, Long Beach
+* Interests: Data Analysis, Data Visualization, Machine Learning, Financial Analysis
+* Currently Learning: 
+* Reach Me: jeanchoacc@gmail.com
 
 ## Technical Skills
 
-• Languages: Python, SQL
-• 
-• Databases: DB Browser for SQLite 
-• Other: 
+* Languages: Python, SQL
+* 
+* Databases: DB Browser for SQLite 
+* Other: 
 
 `Python` `SQL` `Excel` `Power BI`
 
@@ -22,6 +22,7 @@ Aspiring Data Analyst with hands-on experience in data analysis and visualizatio
 | :--- | :---: | ---: |
 | Left-aligned text | Centered text | Right-aligned text |
 | Item A | Item B | Item C |
+| [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis) | Machine learning analysis of 1994 U.S. Census data to predict whether an individual earns more than $50,000 annually | Python |
 
 ### [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis)
 
