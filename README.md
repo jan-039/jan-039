@@ -20,7 +20,7 @@ Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and v
 | Project | Description | Tech |
 | :--- | :---: | ---: |
 | Left-aligned text | Centered text | Right-aligned text |
-| Item A | Item B | Item C |
+| [Education, Income, and Health in LA County](https://github.com/jan-039/la-county-SDOH-analysis) | Item B | Item C |
 | [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis) | Machine learning analysis of 1994 U.S. Census data to predict whether an individual earns more than $50,000 annually | Python |
 
 
