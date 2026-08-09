@@ -19,7 +19,7 @@ Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and v
 
 | Project | Description | Tech | Status |
 | :---: | :---: | :---: | :---: |
-| Left-aligned text | Centered text | Right-aligned text | 🚧 In Progress |
+| [U.S. Labor Cost Analysis From 2017 to 2024](https://github.com/jan-039/labor-cost-analysis/blob/main/README.md) | Analyzing U.S. industry employment, wages, and compensation trends from 2017 to 2024 to identify where labor costs grew faster than workforce size | Excel, Power Query | 🚧 In Progress |
 | [Education, Income, and Health in LA County](https://github.com/jan-039/la-county-SDOH-analysis) | Analyzing how education, income, and poverty are associated with health outcomes across Los Angeles County communities | SQL | 🚧 In Progress |
 | [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis) | Machine learning analysis of 1994 U.S. Census data to predict whether an individual earns more than $50,000 annually | Python | ✅ Completed |
 
