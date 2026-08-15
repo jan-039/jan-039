@@ -10,7 +10,7 @@ Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and v
 
 ## Technical Skills
 
-* 💻 Languages: Python, SQL
+* 💻 Languages: SQL, Python
 * 📊 Analytics Tools: Excel, Power Query, Power BI 
 * 🗄️ Databases: DB Browser for SQLite 
 * 🐍 Python Libraries: pandas, NumPy, Matplotlib
