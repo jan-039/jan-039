@@ -13,7 +13,6 @@ Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and v
 * 💻 Languages: SQL, Python
 * 📊 Analytics Tools: Excel, Power Query, Power BI 
 * 🗄️ Databases: DB Browser for SQLite 
-* 🐍 Python Libraries: pandas, NumPy, Matplotlib
 
 ## Featured Projects
 
@@ -26,6 +25,8 @@ Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and v
 
 
 <!--
+
+* 🐍 Python Libraries: pandas, NumPy, Matplotlib
 **jan-039/jan-039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
