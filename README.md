@@ -1,4 +1,4 @@
-# Jean Cho | Data Analyst
+# Jean Cho
 
 Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and visualization.
 
