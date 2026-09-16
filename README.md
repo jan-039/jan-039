@@ -1,7 +1,5 @@
 # Jean Cho
 
-Aspiring Data Analyst with hands-on experience in data cleaning, analysis, and visualization.
-
 * 🎓 Education: Business Administration, Management Information Systems at California State University, Long Beach
 * 📊 Interests: Data Analysis, Data Visualization, Financial Analysis
 * 📚 Currently Learning: SQL, Power BI, Excel/Power Query, and Python
