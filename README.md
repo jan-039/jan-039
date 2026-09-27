@@ -1,6 +1,6 @@
 # Jean Cho
 
-Undergraduate student with a data background pursuing opportunities to apply analytical skills within a finance context.
+Undergraduate student with a data background pursuing opportunities to apply analytical skills within a finance context. 
 
 * 🎓 Education: Business Administration, Management Information Systems at California State University, Long Beach
 * 📊 Interests: Data Analysis, Data Visualization, Financial Analysis
