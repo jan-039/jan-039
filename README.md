@@ -8,7 +8,7 @@
 
 ## Technical Skills
 
-* 💻 Languages: SQL, Python (Pandas, Matplotlib, Seaborn)
+* 💻 Languages: SQL, Python
 * 📊 Analytics Tools: Excel, Power Query, Power BI 
 * 🗄️ Databases: DB Browser for SQLite 
 
