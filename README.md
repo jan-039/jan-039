@@ -8,7 +8,7 @@
 
 ## Technical Skills
 
-* 💻 Languages: SQL, Python (Pandas)
+* 💻 Languages: SQL, Python (Pandas, Matplotlib, Seaborn)
 * 📊 Analytics Tools: Excel, Power Query, Power BI 
 * 🗄️ Databases: DB Browser for SQLite 
 
@@ -17,28 +17,4 @@
 | Project | Description | Tech |
 | :---: | :---: | :---: |
 | [U.S. Labor Cost Analysis From 2017 to 2024](https://github.com/jan-039/labor-cost-analysis) | Analyzing U.S. industry employment, wages, and compensation trends from 2017 to 2024 to identify where labor costs grew faster than workforce size | Excel, Power Query, Power BI |
-
-
-
-
-<!--
-| [Analysis of Census Income Data](https://github.com/jan-039/census_income_analysis) | Analyzing 1994 U.S. Census data to predict whether an individual earns more than $50,000 annually | Python | ✅ Completed |
-
-
-
-
-
-* 🐍 Python Libraries: pandas, NumPy, Matplotlib
-**jan-039/jan-039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [LA County Exploratory Health Analysis]([https://github.com/jan-039/census_income_analysis](https://github.com/jan-039/la_county_exploratory_health_analysis)) | This project is an exploratory analysis of how education, income and poverty relate to self-reported fair or poor health across LA County cities and Los Angeles neighborhoods, using non-overlapping geographies so that no resident is counted twice. | Python, Jupyter Notebook |
